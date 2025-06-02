@@ -14,9 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Features\" />
-    <Folder Include="Messaging\" />
     <Folder Include="Infrastructure\" />
+    <Folder Include="Messaging\" />
     <Folder Include="Shared\" />
   </ItemGroup>
 
